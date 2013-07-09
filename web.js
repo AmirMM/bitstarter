@@ -1,6 +1,6 @@
 
 var fs = require('fs');
-//var buff = require('buffer');
+var buff = require('buffer');
 
 var inputFile = 'index.html';
 
